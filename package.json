@@ -1,0 +1,23 @@
+{
+  "name": "kustomer-apps-starter-configs",
+  "version": "1.0.0",
+  "license": "SEE LICENSE IN kustomer-limited-license.md",
+  "author": "Kustomer, Inc.",
+  "description": "This repo contains several sample app definitions, as well as inline examples on dfferent pieces of a Kustomer app.",
+  "private": false,
+  "repository": "https://github.com/kustomer/kustomer-apps-starter-configs",
+  "scripts": {
+    "get-app-json": "node ./_scripts/get-app-json",
+    "register-new-version": "node ./_scripts/register-new-version"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/register": "^7.12.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}

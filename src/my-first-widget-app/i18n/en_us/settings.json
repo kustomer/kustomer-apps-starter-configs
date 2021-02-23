@@ -1,0 +1,6 @@
+{
+    "myFirstWidgetApp.settings.page.title": "My First Widget App",
+    "myFirstWidgetApp.settings.page.description": "This app is used to showcase how to use app settings, as well as configure and install a widget",
+    "myFirstWidgetApp.settings.path.mySettingsCategory.urlDomain.description": "Enter the desired url domain to complete the widget url for this app.",
+    "myFirstWidgetApp.settings.path.mySettingsCategory.urlDomain.displayName": "Url Domain Name"
+}
